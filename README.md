@@ -12,7 +12,7 @@ Este proyecto se basa en consumir servicios de datos en tiempo real. En este cas
 
 ## Instalación
 ### Obtener repositorio
-Para obtener el repositorio se debe ingresar el siguiente comando dentro de la consola de comandos: `git clone `
+Para obtener el repositorio se debe ingresar el siguiente comando dentro de la consola de comandos: `git clone https://github.com/JavierGonzalez998/Evaluacion_BigData.git`
 ### Apache kafka
 Para Apache Kafka, una vez en el repositorio, en la consola de comandos, ir al directorio de Kafka con `cd kafka`. Luego ejecutar `docker-compose up` en la consola de comandos.
 
